@@ -14,16 +14,16 @@ ASP.NET Core로 개발할때 로컬에서는 문제없이 디버깅되고 페이
 자료를 찾아보니 .NET Core는 기존과 다른 방식으로 발생되는 오류였습니다.
 
 ### 환경
-> * Visual Studio 2015 Update 3   
-> * ASP.NET Core
+* Visual Studio 2015 Update 3   
+ * ASP.NET Core
 
 ### 오류 내용
-> 페이지 접속 시 에러 내용  
-> HTTP Error 502.5 - Process Failure  
-> Common causes of this issue:   
-> * The application process failed to start   
-> * The application process started but then stopped   
-> * The application process started but failed to listen on the configured port   
+페이지 접속 시 에러 내용  
+HTTP Error 502.5 - Process Failure  
+Common causes of this issue:   
+* The application process failed to start   
+* The application process started but then stopped   
+* The application process started but failed to listen on the configured port   
 
 ### 해결 방법
 * 반드시 설치해야하는 프로그램  
