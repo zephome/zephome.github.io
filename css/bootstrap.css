@@ -1485,6 +1485,7 @@ blockquote p:last-child,
 blockquote ul:last-child,
 blockquote ol:last-child {
   margin-bottom: 0;
+  margin-top: 0;
 }
 blockquote footer,
 blockquote small,
