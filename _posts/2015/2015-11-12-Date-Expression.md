@@ -11,4 +11,3 @@ tags: [ C#, Date, 일자, 표현식 ]
 
 C#에서 사용가능한 일자 표현식
 
-<script src="https://gist.github.com/zephome/cb32bf654c9e17d12850b0db3ba26d57.js"></script>
